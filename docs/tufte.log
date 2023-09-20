@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.9.6)  10 SEP 2023 15:37
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.9.6)  20 SEP 2023 16:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -791,7 +791,7 @@ LaTeX Warning: Marginpar on page 2 moved.
 File: tufte_files/figure-latex/fig-margin-1.pdf Graphic file (type pdf)
 <use tufte_files/figure-latex/fig-margin-1.pdf>
 
-Package fontspec Warning: \addfontfeature(s) ignored on line 267; it cannot be
+Package fontspec Warning: \addfontfeature(s) ignored on line 268; it cannot be
 (fontspec)                used with a font that wasn't selected by a fontspec
 (fontspec)                command.
 (fontspec)                 
@@ -802,17 +802,17 @@ Package fontspec Warning: \addfontfeature(s) ignored on line 267; it cannot be
 File: tufte_files/figure-latex/fig-fullwidth-1.pdf Graphic file (type pdf)
 <use tufte_files/figure-latex/fig-fullwidth-1.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 282--283
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 282--283
+Underfull \hbox (badness 10000) in paragraph at lines 283--284
 
  []
 
 
-Package fontspec Warning: \addfontfeature(s) ignored on line 324; it cannot be
+Package fontspec Warning: \addfontfeature(s) ignored on line 325; it cannot be
 (fontspec)                used with a font that wasn't selected by a fontspec
 (fontspec)                command.
 (fontspec)                 
@@ -823,7 +823,7 @@ Package fontspec Warning: \addfontfeature(s) ignored on line 324; it cannot be
 File: tufte_files/figure-latex/fig-main-1.pdf Graphic file (type pdf)
 <use tufte_files/figure-latex/fig-main-1.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 328--329
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
 
  []
 
@@ -834,7 +834,7 @@ LaTeX Warning: Marginpar on page 4 moved.
 LaTeX Warning: Marginpar on page 4 moved.
 
 
-Package fontspec Warning: \addfontfeature(s) ignored on line 370; it cannot be
+Package fontspec Warning: \addfontfeature(s) ignored on line 371; it cannot be
 (fontspec)                used with a font that wasn't selected by a fontspec
 (fontspec)                command.
 (fontspec)                 
@@ -843,7 +843,7 @@ Package fontspec Warning: \addfontfeature(s) ignored on line 370; it cannot be
 
 [4]
 
-Package fontspec Warning: \addfontfeature(s) ignored on line 441; it cannot be
+Package fontspec Warning: \addfontfeature(s) ignored on line 442; it cannot be
 (fontspec)                used with a font that wasn't selected by a fontspec
 (fontspec)                command.
 (fontspec)                 
@@ -856,26 +856,26 @@ File: tufte_files/figure-latex/fig-two-together-1.pdf Graphic file (type pdf)
 File: tufte_files/figure-latex/fig-two-together-2.pdf Graphic file (type pdf)
 <use tufte_files/figure-latex/fig-two-together-2.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 460--461
+Underfull \hbox (badness 10000) in paragraph at lines 461--462
 
  []
 
 File: tufte_files/figure-latex/fig-two-separate-1.pdf Graphic file (type pdf)
 <use tufte_files/figure-latex/fig-two-separate-1.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 476--477
+Underfull \hbox (badness 10000) in paragraph at lines 477--478
 
  []
 
 File: tufte_files/figure-latex/fig-two-separate-2.pdf Graphic file (type pdf)
 <use tufte_files/figure-latex/fig-two-separate-2.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 486--487
+Underfull \hbox (badness 10000) in paragraph at lines 487--488
 
  []
 
 
-Package fontspec Warning: \addfontfeature(s) ignored on line 509; it cannot be
+Package fontspec Warning: \addfontfeature(s) ignored on line 510; it cannot be
 (fontspec)                used with a font that wasn't selected by a fontspec
 (fontspec)                command.
 (fontspec)                 
@@ -884,7 +884,7 @@ Package fontspec Warning: \addfontfeature(s) ignored on line 509; it cannot be
 
 [6]
 
-Package fontspec Warning: \addfontfeature(s) ignored on line 509; it cannot be
+Package fontspec Warning: \addfontfeature(s) ignored on line 510; it cannot be
 (fontspec)                used with a font that wasn't selected by a fontspec
 (fontspec)                command.
 (fontspec)                 
@@ -893,7 +893,7 @@ Package fontspec Warning: \addfontfeature(s) ignored on line 509; it cannot be
 
 [7]
 
-Package fontspec Warning: \addfontfeature(s) ignored on line 509; it cannot be
+Package fontspec Warning: \addfontfeature(s) ignored on line 510; it cannot be
 (fontspec)                used with a font that wasn't selected by a fontspec
 (fontspec)                command.
 (fontspec)                 
@@ -917,7 +917,7 @@ File: tufte_files/figure-latex/fig-margin-separate-2.pdf Graphic file (type pdf
 )
 <use tufte_files/figure-latex/fig-margin-separate-2.pdf>
 
-Package fontspec Warning: \addfontfeature(s) ignored on line 599; it cannot be
+Package fontspec Warning: \addfontfeature(s) ignored on line 600; it cannot be
 (fontspec)                used with a font that wasn't selected by a fontspec
 (fontspec)                command.
 (fontspec)                 
@@ -930,12 +930,12 @@ File: tufte_files/figure-latex/fig-nocap-margin-1.pdf Graphic file (type pdf)
 File: tufte_files/figure-latex/fig-nocap-main-1.pdf Graphic file (type pdf)
 <use tufte_files/figure-latex/fig-nocap-main-1.pdf>
 
-Overfull \hbox (12.01027pt too wide) in paragraph at lines 646--647
+Overfull \hbox (12.01027pt too wide) in paragraph at lines 647--648
 [][]  
  []
 
 
-Package fontspec Warning: \addfontfeature(s) ignored on line 657; it cannot be
+Package fontspec Warning: \addfontfeature(s) ignored on line 658; it cannot be
 (fontspec)                used with a font that wasn't selected by a fontspec
 (fontspec)                command.
 (fontspec)                 
@@ -947,7 +947,7 @@ File: tufte_files/figure-latex/fig-nocap-fullwidth-1.pdf Graphic file (type pdf
 )
 <use tufte_files/figure-latex/fig-nocap-fullwidth-1.pdf>
 
-Package fontspec Warning: \addfontfeature(s) ignored on line 705; it cannot be
+Package fontspec Warning: \addfontfeature(s) ignored on line 706; it cannot be
 (fontspec)                used with a font that wasn't selected by a fontspec
 (fontspec)                command.
 (fontspec)                 
@@ -960,7 +960,7 @@ LaTeX Warning: Marginpar on page 12 moved.
 
 (./tufte.bbl)
 
-Package fontspec Warning: \addfontfeature(s) ignored on line 763; it cannot be
+Package fontspec Warning: \addfontfeature(s) ignored on line 764; it cannot be
 (fontspec)                used with a font that wasn't selected by a fontspec
 (fontspec)                command.
 (fontspec)                 

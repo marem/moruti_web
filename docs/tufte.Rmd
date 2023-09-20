@@ -34,6 +34,7 @@ author: "John Smith"
 output:
   tufte::tufte_handout: default
   tufte::tufte_html: default
+output_dir: "."
 ---
 ```
 
